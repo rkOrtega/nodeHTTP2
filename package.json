@@ -1,0 +1,23 @@
+{
+  "name": "nodehttp2",
+  "version": "1.0.0",
+  "description": "Teste de HTTP 2 com NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkOrtega/nodeHTTP2.git"
+  },
+  "keywords": [
+    "nodejs",
+    "http2"
+  ],
+  "author": "Erick Ribeiro Ortega",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rkOrtega/nodeHTTP2/issues"
+  },
+  "homepage": "https://github.com/rkOrtega/nodeHTTP2#readme"
+}
